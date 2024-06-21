@@ -5,6 +5,30 @@
 
 ## About Me
 
+Adil's passion for computer games led him to the IT industry.
+
+- 🌱 I’m currently learning c++ and c#
+- 🧩 Don't ask me about Hacking or bla bla bla.
+- 💭 Contact me to for anything.
+
+<p align="center">
+ <a href="https://linkedin.com/in/adylaov" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-ff8d4e?style=for-the-badge&logo=linkedin&logoColor=white" alt="sirkiraz"/>
+ </a>
+ <a href="https://twitter.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000304?style=for-the-badge&logo=Twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/adlbsv" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="sirkiraz" />
+ </a> 
+  <a href="https://https://discordapp.com/users/" target="blank">
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="sirkiraz" />
+ </a>
+</p>
+<br />
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 🎓 I'm a Cosmic boy with a deep interest in software development. I specialize in **Web Development**, **Artificial Intelligence**.
 
 🌱 Currently working on:
