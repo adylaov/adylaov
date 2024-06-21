@@ -1,7 +1,7 @@
 # Hello, I'm Adil 🧑‍🚀
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/yourusername?style=social)
+![GitHub followers](https://img.shields.io/github/followers/adylaov?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/adylaov?style=social)
 
 ## About Me
 
@@ -35,13 +35,4 @@
 
 ## 💡 Projects
 
-### [Project 1](https://github.com/yourusername/project1)
-Soon.
 
-### [Project 2](https://github.com/yourusername/project2)
-Soon.
-
-### [Project 3](https://github.com/yourusername/project3)
-Soon.
-
----
