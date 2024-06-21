@@ -29,7 +29,7 @@
 
 ## 📫 Contact Me
 
-- [Your Email](mailto:adlabbsv@gmail.com)
+- [Email](mailto:adlabbsv@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/adylaov/)
 - [Instagram](https://instagram.com/adlbsv)
 
