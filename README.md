@@ -8,7 +8,6 @@
 Adil's passion for computer games led him to the IT industry.
 
 - 🌱 I’m currently learning c++ and c#
-- 🧩 Don't ask me about Hacking or bla bla bla.
 - 💭 Contact me to for anything.
 
 <p align="center">
